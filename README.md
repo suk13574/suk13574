@@ -20,8 +20,8 @@
 **🚤 Skill 🚤**
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> &nbsp;
- <img src="https://img.shields.io/badge/Spring-6DB33F? style=flat-square&logo=spring&logoColor=white"/> &nbsp;
- <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/Spring-6DB33F? style=flat-square&logo=spring&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&-square&logo=GitHub Actions&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> &nbsp;
