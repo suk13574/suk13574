@@ -2,7 +2,15 @@
 
  <div align=left>
 
-**안녕하세요! 백엔드, 서버 개발자를 꿈꾸는 윤혜숙입니다.**
+###  I am Cloud Engineer interesed in Developing
+
+</br>
+</br>
+
+**📌 History 📌**
+
+2023년 2월, 가톨릭대학교 컴퓨터정보공학부 졸업 </br>
+2023년 8월~, 메가존클라우드에서 클라우드 엔지니어로 재직 중
 
 </br>
 </br>
@@ -26,6 +34,13 @@
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&-square&logo=GitHub Actions&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> &nbsp;
+</br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/Naver Cloud-2DB400?style=flat-square&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/KT Cloud-ED2024?style=flat-square&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/NHN Cloud-125DE6?style=flat-square&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> &nbsp;
+
 
 
 </br>
@@ -37,6 +52,13 @@
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suk13574&show_icons=true&theme=nord)
 -->
+
+</br>
+</br>
+
+**Visit my velog!**
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=suk13574)](https://github.com/eungyeole/velog-readme-stats)
 
  <div>
  
