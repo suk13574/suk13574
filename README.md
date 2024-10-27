@@ -15,6 +15,14 @@
 </br>
 </br>
 
+**📢 portfolio 📢**
+
+### [윤혜숙의 portfolio 보러가기](https://transparent-devourer-b10.notion.site/78001fdf64ff4d5a94db58e2bfef57f1?v=5b1030930ae24e47bc3c48386d2339e0&pvs=4) 
+
+</br>
+</br>
+
+
 **🌌 Follow Me 🌌**
 
 <a href="https://velog.io/@suk13574">
