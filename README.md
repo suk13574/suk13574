@@ -9,9 +9,10 @@
 
 **📌 History 📌**
 
-- 2023년 02월, 가톨릭대학교 컴퓨터정보공학부 졸업 </br>
-- 2023년 01월 ~ 2023년 04월 (4개월), 모바일앱개발협동조합 Backend 개발자 인턴 </br>
-- 2023년 8월~ 현재, 메가존클라우드에서 클라우드 엔지니어로 재직 중
+- 2023.02, 가톨릭대학교 컴퓨터정보공학부 졸업 </br>
+- 2023.01 ~ 2023.04월,  모바일앱개발협동조합 Backend Developer 인턴 </br> 
+- 2023.08 ~ 2025.07, 메가존클라우드 Cloud Engineer </br>
+- 2025.08 ~ now, 수퍼게이트 DevOps
 
 </br>
 </br>
@@ -27,6 +28,7 @@
 </br>
 </br>
 
+<!--
 **🚤 Skill 🚤**
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> &nbsp;
@@ -42,7 +44,7 @@
 <img src="https://img.shields.io/badge/KT Cloud-ED2024?style=flat-square&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/NHN Cloud-125DE6?style=flat-square&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> &nbsp;
-
+-->
 
 
 </br>
