@@ -1,68 +1,46 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=7286D3&height=270&section=header&text=Hi!%20I'm%20HyeSook&fontColor=FFF2F2&fontSize=70&animation=fadeIn&fontAlignY=40&stroke=FFF2F2)
-
- <div align=left>
-
-###  Cloud Engineer
-
-</br>
-</br>
-
-**📌 History 📌**
-
-- 2023.02, 가톨릭대학교 컴퓨터정보공학부 졸업 </br>
-- 2023.01 ~ 2023.04월,  모바일앱개발협동조합 Backend Developer 인턴 </br> 
-- 2023.08 ~ 2025.07, 메가존클라우드 Cloud Engineer </br>
-- 2025.08 ~ now, 수퍼게이트 DevOps
-
-</br>
-</br>
-
-
-**🌌 Follow Me 🌌**
-
-<a href="https://velog.io/@suk13574">
- <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/> &nbsp;
-</a>
-<img src="https://img.shields.io/badge/suk13574@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-
-</br>
-</br>
-
 <!--
-**🚤 Skill 🚤**
-
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/Spring-6DB33F? style=flat-square&logo=spring&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&-square&logo=GitHub Actions&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> &nbsp;
-</br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/Naver Cloud-2DB400?style=flat-square&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/KT Cloud-ED2024?style=flat-square&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/NHN Cloud-125DE6?style=flat-square&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> &nbsp;
+<div align="center" style="background-color: black; padding: 20px; border-radius: 10px; font-family: 'Courier New', Courier, monospace;">
+  <h1 style="color: #00FF00; margin-bottom: 0;">$ Hello, I'm Hyesook</h1>
+  <p style="color: #00FF00; margin-top: 5px; font-size: 16px;">Welcome to my GitHub</p>
+  
+  <div align="left" style="padding-left: 40px;">
+    <pre style="color: #00FF00; background: black; padding: 10px; border-radius: 5px; font-family: monospace;">
+  <code>
+> echo "✔ Backend Intern  (2023.01 - 2023.04) @ mobileappdev"
+> echo "✔ Cloud Engineer  (2023.08 - 2025.07) @ Megazone Cloud"
+> echo "✔ DevOps Engineer (2025.08 - now)     @ Supergate"
+  </code>
+    </pre>
+  </div>
+</div>
 -->
 
+<div align="center">
+  <img src="./assets/terminal-header.svg" alt="Hyesook Terminal Header" width="860" />
+</div>
+
+
 
 </br>
-</br>
-</br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suk13574&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://img.shields.io/badge/-Golang-333333?style=flat&logo=go" alt="Golang" style="margin: 0 1px;" />
+  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python" style="margin: 0 1px;" />
+  <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" alt="Docker" style="margin: 0 1px;" />
+  <img src="https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes" alt="Kubernetes" style="margin: 0 1px;" />
+  <img src="https://img.shields.io/badge/-Cloud-333333?style=flat&logo=cloudflare" alt="Cloud" style="margin: 0 1px;" />
+</div>
 
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suk13574&show_icons=true&theme=nord)
--->
+<br/>
+<br/>
 
-</br>
-</br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suk13574&theme=dark"/>
+  <div style="display: flex; justify-content: center; gap: 20px; margin-top: 10px;">
+    <img src="https://raw.githubusercontent.com/suk13574/github-stats-transparent/5dc347309a381c9dcc152e75d43e6afa7639faea/generated/overview.svg"/>
+    <img src="https://raw.githubusercontent.com/suk13574/github-stats-transparent/5dc347309a381c9dcc152e75d43e6afa7639faea/generated/languages.svg"/>
+  </div>
 
-**Visit my velog!**
+</div>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=suk13574)](https://github.com/eungyeole/velog-readme-stats)
-
- <div>
- 
+<br clear="both"/>
