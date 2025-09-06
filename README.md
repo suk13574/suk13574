@@ -38,7 +38,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suk13574&theme=dark"/>
   <div style="display: flex; justify-content: center; gap: 20px; margin-top: 10px;">
     <img src="https://raw.githubusercontent.com/suk13574/github-stats-transparent/5dc347309a381c9dcc152e75d43e6afa7639faea/generated/overview.svg"/>
-    <img src="https://raw.githubusercontent.com/suk13574/github-stats-transparent/5dc347309a381c9dcc152e75d43e6afa7639faea/generated/languages.svg"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suk13574&theme=transparent&layout=compact&hide_border=true"/>
   </div>
 
 </div>
